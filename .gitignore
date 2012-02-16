@@ -1,1 +1,4 @@
 .idea/*
+KotlinPrimavera.iml
+*.jar
+out/*
