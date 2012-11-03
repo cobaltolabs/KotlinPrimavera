@@ -6,5 +6,7 @@ package co.cobaltolabs.kotlin.spring.jdbc
  * Date: 30/10/12
  * Time: 13:41
  */
-public class User {
-}
+public class User(var id: Int? = null,
+               var firstName: String? = null,
+               var lastName: String? = null,
+               var age: Int? = null)

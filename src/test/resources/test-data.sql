@@ -1,5 +1,5 @@
-insert into test_bean(id,description) values (1,'python');
-insert into test_bean(description) values ('ruby');
-insert into test_bean(description) values ('scala');
-insert into test_bean(description) values ('java');
-insert into test_bean(description) values ('kotlin');
+INSERT INTO test_bean (id, description) VALUES (1, 'python');
+INSERT INTO test_bean (description) VALUES ('ruby');
+INSERT INTO test_bean (description) VALUES ('scala');
+INSERT INTO test_bean (description) VALUES ('java');
+INSERT INTO test_bean (description) VALUES ('kotlin');

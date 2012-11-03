@@ -2,3 +2,6 @@
 KotlinPrimavera.iml
 *.jar
 out/*
+*.class
+target/*
+*.html
